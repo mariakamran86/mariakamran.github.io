@@ -1,4 +1,4 @@
 name: Maria's landing page
-url:"http://mariakamran.github.io"
-markdown:GFM
+url: "http://mariakamran.github.io"
+markdown: GFM
 theme: jekyll-theme-midnight
